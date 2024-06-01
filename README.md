@@ -5,7 +5,7 @@ dan.ake.svedberg@gmail.com
 ## About me
 
 **[Link to ORCID](https://orcid.org/0000-0002-4605-9572)** <br>
-**Link to CV**
+**[Link to CV](https://github.com/danielsvedberg/danielsvedberg/blob/main/Curriculum%20Vitae%20052824.pdf)** <br>
 
 I'm a neuroscientist based in the Boston area with a background in systems neuroscience. I studied my PhD at Brandeis University under Prof. Donald Katz. For my dissertation, I characterized rapid-changes in taste perception across familiarization to novel taste, 
 using in-vivo electrophysiology and behavior in rats.
