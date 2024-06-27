@@ -3,7 +3,7 @@ Boston, MA <br>
 dan.ake.svedberg@gmail.com <br>
 ## About me
 **[Link to ORCID](https://orcid.org/0000-0002-4605-9572)** <br>
-**[Link to CV](https://github.com/danielsvedberg/danielsvedberg/blob/main/Curriculum%20Vitae%20060324.pdf)** <br>
+**[Link to CV](https://github.com/danielsvedberg/danielsvedberg/blob/main/Curriculum%20Vitae.pdf)** <br>
 **[Link to my recent preprint: Neural correlates of rapid familiarization to novel taste](https://www.biorxiv.org/content/10.1101/2024.05.08.593234v1)** <br>
 I'm a neuroscientist based in the Boston area with a background in systems neuroscience. 
 I received my PhD from Brandeis University under Prof. Donald Katz. 
