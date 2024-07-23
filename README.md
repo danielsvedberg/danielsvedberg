@@ -21,11 +21,11 @@ Python <br>
 * [pyBAKS](https://github.com/danielsvedberg/pyBAKS): software for rate estimation of binary events/neuronal spikes using the BAKS algorithm, originally developed by [Nur Ahmadi](https://github.com/nurahmadi/BAKS). <br>
 * [COMING SOON] cuedtaste: software for controlling and training a restaurant-style go/no-go task for rats, co-developed with [Emma Barash](https://github.com/emmalala123/lab_cuedtaste). 
 
-MATLAB
+MATLAB <br>
 - [blechBayes](https://github.com/danielsvedberg/blechBayes): software for Bayesian classification of taste responses for in-vivo electrophysiology data
 
 R <br>
-- [COMING SOON] repsubsamp: software for extracting sub-samples of rows from dataframes that are statistically representative of the original data
+- [repsubsamp](https://github.com/danielsvedberg/repsubsamp): software for extracting sub-samples of rows from dataframes that are statistically representative of the original data
  
 ### 3D-printable tools (designed in Solidworks, for printing on Formlabs SLA printers)
 - [blech shuttledrive](https://github.com/danielsvedberg/blech_shuttledrive_mk6): adaptation of the [open-ephys shuttle-drive](https://github.com/open-ephys/shuttle-drive) for bilaterally targeting gustatory cortex with 64 individual electrodes. 
