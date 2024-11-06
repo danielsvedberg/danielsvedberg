@@ -2,17 +2,12 @@
 Boston, MA <br>
 dan.ake.svedberg@gmail.com <br>
 ## About me
+I'm a systems-neuroscientist and postdoc at Harvard Medical School, working with Prof. John Assad. 
+My research interests include studying the role of 🧠brain-circuit dynamics🌪 in ⬅️decision-making➡️,  🕵️learning and memory💾, and individual differences🧩 in behavior.
+
 **[Link to ORCID](https://orcid.org/0000-0002-4605-9572)** <br>
 **[Link to CV](https://github.com/danielsvedberg/danielsvedberg/blob/main/Curriculum%20Vitae.pdf)** <br>
 **[Link to my recent preprint: Neural correlates of rapid familiarization to novel taste](https://www.biorxiv.org/content/10.1101/2024.05.08.593234v1)** <br>
-I'm a neuroscientist based in the Boston area with a background in systems neuroscience. 
-I received my PhD from Brandeis University under Prof. Donald Katz. 
-For my dissertation, I characterized rapid changes in taste perception across familiarization to novel taste, 
-using in-vivo electrophysiology and behavior in rats. <br>
-
-I am currently seeking a postdoctoral research position in the Boston area. <br>
-
-My research interests include studying the role of 🧠brain-circuit dynamics🌪 in ⬅️decision-making➡️,  🕵️learning and memory💾, and individual differences🧩 in behavior.
 
 ## Showcase:
 ### Data analysis software
